@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Dr Hagar\'s Skin care clinic</string>
+    <string name="business_name">Business name</string>
+    <string name="phone_number_label">Phone number</string>
+    <string name="phone_number">(+20) 01002900259</string>
+    <string name="email_address_label">Email address</string>
+    <string name="email_address">dr_hagar_07@hotmail.com.com</string>
+    <string name="address_label">Address</string>
+    <string name="address">107 Elthawra st. 5th floor appartment no42</string>
+    <string name="description_label">Description</string>
+    <string name="description">Dermatology,Cometology and Laser specialist</string>
+    <string name="hours_of_operation_label">Hours of operation</string>
+    <string name="hours_of_operation">Saturday , Monday , Wednesday 2 pm - 8 pm</string>
+
+
+</resources>
